@@ -1,0 +1,7 @@
+public enum Results {
+    ENDLESS_SOLUTIONS,
+    DEGENERATE_SYSTEM,
+    NO_SOLUTIONS,
+    ONLY_SOLUTION,
+    MAY_BE_CONTINUED
+}
